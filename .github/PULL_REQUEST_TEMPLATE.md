@@ -1,1 +1,1 @@
-@coxmediagroup/challenge_reviewers
+@coxmediagroup/challenge-reviewers
